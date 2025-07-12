@@ -1,0 +1,8 @@
+Step 1: Make sure Node.js is installed on your system.
+         You can check this by running:
+         node -v
+
+Step 2: Open your terminal and navigate to your project directory.
+
+Step 3: Run the following command to install SASS version 3.7.4:
+         npm install sass -v 3.7.4

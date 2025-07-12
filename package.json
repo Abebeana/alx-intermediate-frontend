@@ -1,0 +1,18 @@
+{
+    "devDependencies": {
+        "tailwindcss": "^4.1.11"
+    },
+    "scripts": {
+        "build:css": "tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+    },
+    "name": "alx-intermediate-frontend",
+    "version": "1.0.0",
+    "description": "",
+    "main": "tailwind.config.js",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "sass": "^1.89.2"
+    }
+}
